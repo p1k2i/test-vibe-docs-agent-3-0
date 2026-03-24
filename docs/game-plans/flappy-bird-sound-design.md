@@ -1,6 +1,6 @@
-## Flappy Bird Sound Design {##flappy-bird-sound-design}
+## Flappy Bird Sound Design {#flappy-bird-sound-design}
 
-## Flappy Bird Sound Design {##flappy-bird-sound-design}  
+## Flappy Bird Sound Design {#flappy-bird-sound-design}  
 The sound design of *Flappy Bird* is intentionally minimal yet effective, focusing on creating an immersive and addictive gameplay experience.  
 
 1. **Flap Sound**: A short, crisp "flap" sound effect is triggered each time the player taps the screen to make the bird flap its wings. This provides immediate auditory feedback and reinforces the player's actions.  
