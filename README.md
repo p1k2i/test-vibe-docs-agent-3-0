@@ -1,4 +1,7 @@
-# test-vibe-docs-agent-3-0 /think
+# Readme {#readme}
+## Readme {#readme}
+
+# test-vibe-docs-agent-3-0
 
 ## Overview  
 The test-vibe-docs-agent-3-0 project represents an evolution of our documentation automation framework, focusing on improved scalability, enhanced user experience, and streamlined integration workflows. Key updates include modular architecture, expanded support for multi-format output, and refined configuration management.
